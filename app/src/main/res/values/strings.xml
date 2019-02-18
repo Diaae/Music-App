@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your Music App</string>
+    <string name="play_button">PLAY / STOP</string>
+    <string name="random">RANDOM SONG</string>
+    <string name="songName">Title: </string>
+    <string name="artistName">Artist: </string>
+</resources>
